@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-## About Me✨
+## About Me :sparkles:
 BCA student with hands-on experience from a Web Development internship.  
 Currently focused on learning **Java**, **Data Structures & Algorithms**, and building a strong foundation for **backend development**.
 
