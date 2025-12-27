@@ -1,14 +1,15 @@
-## 👋 Hi, I’m Mayank Yadav
+# 👋 Welcome to My GitHub Profile
 
+## About Me
 BCA student with hands-on experience from a Web Development internship.  
-Currently focused on learning **Java** and **Data Structures & Algorithms**, with a strong interest in **backend development**.
+Currently learning **Java** and **Data Structures & Algorithms**, with a growing interest in **backend development**.
 
 ---
 
 ## 🎓 Background
 - BCA student
 - Completed a **2-month Web Development internship**
-- Exploring backend and software development fundamentals
+- Building a strong foundation for backend and software development roles
 
 ---
 
@@ -20,16 +21,16 @@ Currently focused on learning **Java** and **Data Structures & Algorithms**, wit
 
 ---
 
-## 📌 What I’m Currently Working On
-- Strengthening Java concepts through practice and small programs
-- Solving DSA problems and documenting learnings
+## 📌 What I’m Working On
+- Practicing Java concepts through small programs and exercises
+- Solving DSA problems and documenting my learning
 - Gradually building backend-oriented projects
 
 ---
 
 ## 🎯 Goals
-- Build strong problem-solving skills
-- Develop real-world Java projects
+- Strengthen problem-solving skills
+- Build meaningful Java projects
 - Secure backend or software development internship opportunities
 
 ---
@@ -39,5 +40,5 @@ Currently focused on learning **Java** and **Data Structures & Algorithms**, wit
 
 ---
 
-> *This GitHub profile documents my learning journey.  
-> Repositories will be updated regularly as I build and improve projects.*
+> *This profile reflects my learning journey.  
+> Repositories will be updated regularly as I continue to grow.*
