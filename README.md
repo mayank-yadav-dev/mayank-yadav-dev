@@ -1,10 +1,10 @@
 # 👋 Welcome to My GitHub Profile
 
-## :sparkles: About Me
+## About Me
 BCA student with hands-on experience from a Web Development internship.  
 Currently focused on learning **Java**, **Data Structures & Algorithms**, and building a strong foundation for **backend development**.
 
-I use this GitHub profile to document my learning journey and gradually build real-world projects.
+This GitHub profile documents my learning journey and the projects I build step by step.
 
 ---
 
@@ -30,17 +30,22 @@ I use this GitHub profile to document my learning journey and gradually build re
 ![CSS](https://img.shields.io/badge/CSS-Basics-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-yadav-dev&show_icons=true&theme=tokyonight&hide_rank=true)
+
+---
+
 ## 📌 What I’m Currently Working On
-- Strengthening **Core Java** concepts through practice programs
+- Strengthening **Core Java** fundamentals through practice programs
 - Learning **Data Structures & Algorithms** step by step
-- Exploring **Spring Boot** fundamentals for backend development
-- Building small projects to apply what I learn
+- Exploring **Spring Boot** basics for backend development
+- Building small projects to apply concepts practically
 
 ---
 
@@ -52,7 +57,15 @@ I use this GitHub profile to document my learning journey and gradually build re
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [linkedin.com/in/mayank-yadav-dev](https://www.linkedin.com/in/mayank-yadav-dev)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-yadav-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mayank-yadav-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
