@@ -39,7 +39,10 @@ I use this GitHub profile to document my learning journey and gradually build re
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-yadav-dev&show_icons=true&theme=tokyonight&hide_rank=true)
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-yadav-dev&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/mayank-yadav-dev)
+
 
 
 ---
