@@ -36,15 +36,6 @@ I use this GitHub profile to document my learning journey and gradually build re
 
 ---
 
-
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-yadav-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
----
-
 ## 📌 What I’m Currently Working On
 - Strengthening **Core Java** concepts through practice programs
 - Learning **Data Structures & Algorithms** step by step
