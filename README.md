@@ -17,25 +17,50 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ## 🛠️ Tech & Tools
 
+### Backend & Programming
 <p align="left">
-  <!-- Programming & Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-
-  <br/>
-
-  <!-- Computer Science -->
-  <img src="https://skillicons.dev/icons?i=algorithm" />
-
-  <br/>
-
-  <!-- Web Basics -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-  <br/>
-
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,gcp" />
+  <img src="https://skillicons.dev/icons?i=java" width="46" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="46" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="46" />
 </p>
+
+![Core Java](https://img.shields.io/badge/Core%20Java-Learning-ED8B00?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat)
+
+---
+
+### Computer Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=algorithm" width="46" />
+</p>
+
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-Learning-7B68EE?style=flat)
+
+---
+
+### Web Basics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="46" />
+</p>
+
+![HTML](https://img.shields.io/badge/HTML-Basics-E34F26?style=flat)
+![CSS](https://img.shields.io/badge/CSS-Basics-1572B6?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=flat&logoColor=black)
+
+---
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp" width="46" />
+</p>
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat)
+
 
 
 ---
