@@ -15,24 +15,24 @@ I use this GitHub profile to document my learning journey and gradually build re
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech & Tools
 
-### Programming & Backend
-![Core Java](https://img.shields.io/badge/Core%20Java-Learning-orange?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-brightgreen?style=flat&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-Learning-blue?style=flat&logo=mysql)
+### Backend & Programming
+![Core Java](https://img.shields.io/badge/Core%20Java-Learning-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Computer Science
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-blueviolet?style=flat)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-7B68EE?style=for-the-badge)
 
 ### Web Basics
-![HTML](https://img.shields.io/badge/HTML-Basics-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Basics-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basics-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Basics-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Workflow-black?style=flat&logo=github)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
