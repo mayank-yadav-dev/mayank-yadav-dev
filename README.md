@@ -54,17 +54,18 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mayank-yadav-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.skills.google/public_profiles/708d2352-53be-4c00-9dec-6b3618a1e182" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" width="40" />
+    <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud Skills Boost" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/mayank-yadav-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
   </a>
 </p>
+
 
 
 
