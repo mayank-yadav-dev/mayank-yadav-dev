@@ -17,22 +17,25 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ## 🛠️ Tech & Tools
 
-### Backend & Programming
-![Core Java](https://img.shields.io/badge/Core%20Java-Learning-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <!-- Programming & Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
-### Computer Science
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-7B68EE?style=for-the-badge)
+  <br/>
 
-### Web Basics
-![HTML](https://img.shields.io/badge/HTML-Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Basics-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <!-- Computer Science -->
+  <img src="https://skillicons.dev/icons?i=algorithm" />
 
-### Tools
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
+  <br/>
+
+  <!-- Web Basics -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+  <br/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,gcp" />
+</p>
 
 
 ---
