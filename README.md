@@ -34,10 +34,6 @@ This GitHub profile documents my learning journey and the projects I build step 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-yadav-dev&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ---
 
@@ -64,6 +60,9 @@ This GitHub profile documents my learning journey and the projects I build step 
   </a>
   <a href="https://github.com/mayank-yadav-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/708d2352-53be-4c00-9dec-6b3618a1e182" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Skills Boost" />
   </a>
 </p>
 
