@@ -33,11 +33,9 @@ This GitHub profile documents my learning journey and the projects I build step 
 ---
 
 ### Computer Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=algorithm" width="44" />
-</p>
 
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-Learning-7B68EE?style=flat)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-7B68EE?style=flat)
+
 
 ---
 
