@@ -19,11 +19,11 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ### Backend & Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="46" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="46" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="46" />
+  <img src="https://skillicons.dev/icons?i=java" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="44" />
 </p>
 
 ![Core Java](https://img.shields.io/badge/Core%20Java-Learning-ED8B00?style=flat)
@@ -34,7 +34,7 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ### Computer Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=algorithm" width="46" />
+  <img src="https://skillicons.dev/icons?i=algorithm" width="44" />
 </p>
 
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-Learning-7B68EE?style=flat)
@@ -43,7 +43,11 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ### Web Basics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="46" />
+  <img src="https://skillicons.dev/icons?i=html" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="44" />
 </p>
 
 ![HTML](https://img.shields.io/badge/HTML-Basics-E34F26?style=flat)
@@ -54,12 +58,17 @@ This GitHub profile documents my learning journey and the projects I build step 
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp" width="46" />
+  <img src="https://skillicons.dev/icons?i=git" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="44" />
 </p>
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat)
+
 
 
 
