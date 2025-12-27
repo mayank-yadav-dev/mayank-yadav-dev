@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I’m Mayank Yadav
 
-<!--
-**mayank-yadav-dev/mayank-yadav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student with hands-on experience from a Web Development internship.  
+Currently focused on learning **Java** and **Data Structures & Algorithms**, with a strong interest in **backend development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background
+- BCA student
+- Completed a **2-month Web Development internship**
+- Exploring backend and software development fundamentals
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Java (core fundamentals)
+- **Computer Science:** Data Structures & Algorithms
+- **Web Basics:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+
+---
+
+## 📌 What I’m Currently Working On
+- Strengthening Java concepts through practice and small programs
+- Solving DSA problems and documenting learnings
+- Gradually building backend-oriented projects
+
+---
+
+## 🎯 Goals
+- Build strong problem-solving skills
+- Develop real-world Java projects
+- Secure backend or software development internship opportunities
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** [linkedin.com/in/mayank-yadav-dev](https://www.linkedin.com/in/mayank-yadav-dev)
+
+---
+
+> *This GitHub profile documents my learning journey.  
+> Repositories will be updated regularly as I build and improve projects.*
