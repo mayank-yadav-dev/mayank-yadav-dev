@@ -67,6 +67,23 @@ This GitHub profile documents my learning journey and the projects I build step 
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat)
 
+---
+
+### Dev & Productivity Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=intellij" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" width="44" />
+</p>
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-Backend%20Service-3FCF8E?style=flat)
+![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=flat)
 
 
 
